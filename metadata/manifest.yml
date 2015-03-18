@@ -18,7 +18,7 @@ Cartridge-Version: 0.0.18
 Compatible-Versions:
 - 0.0.16
 - 0.0.17
-Cartridge-Vendor: redhat
+Cartridge-Vendor: rogaikopyta.org
 Categories:
 - service
 - python
